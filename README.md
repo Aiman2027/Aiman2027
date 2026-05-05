@@ -15,7 +15,7 @@
 - ⚡ **LeetCode 1500+** Rating | Competitive Programmer in C/C++
 - 📍 Patna, Bihar, India
 - 📫 Reach me at **aimannishat26@gmail.com**
-- 🌐 Portfolio: **aiman-port.netlify.app**
+- 🌐 Portfolio at **aiman-port.netlify.app**
 
 ---
 
