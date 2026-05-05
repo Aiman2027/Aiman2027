@@ -6,7 +6,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### 🙋‍♀️ About Me
 
 - 🎓 B.Tech CSE Student @ **MACET Patna** | Class of 2027
 - 🔭 Currently building **Course Recommendation & Builder Platform** @ InternNexus
@@ -14,8 +14,8 @@
 - 🌟 **Google Student Ambassador** | Ex-Microsoft Learn Student Ambassador
 - ⚡ **LeetCode 1500+** Rating | Competitive Programmer in C/C++
 - 📍 Patna, Bihar, India
-- 📫 Reach me at **aimannishat26@gmail.com**
-- 🌐 Portfolio at **aiman-port.netlify.app**
+- 📫 Reach me at **[aimannishat26@gmail.com](mailto:aimannishat26@gmail.com)**
+- 🌐 Portfolio: **[aiman-port.netlify.app](https://aiman-port.netlify.app)**
 
 ---
 
