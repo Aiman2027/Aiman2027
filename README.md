@@ -89,7 +89,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/aimannishat-914785251">
+  <a href="https://www.linkedin.com/in/aiman-nishat-914785251">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://aiman-port.netlify.app">
@@ -98,7 +98,7 @@
   <a href="mailto:aimannishat26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Aiman2027">
+  <a href="https://leetcode.com/u/RKy1u3TwsR/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
