@@ -2,8 +2,7 @@
 
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🏆 Google Student Ambassador</h3>
 
-<img src="https://img.shields.io/github/followers/Aiman2027?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</p>
+
 
 ---
 
