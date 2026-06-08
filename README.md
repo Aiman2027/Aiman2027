@@ -54,7 +54,7 @@
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🎯 **Course Recommendation & Builder** | Helps students discover right learning path based on goals & skills | React, Node.js, MongoDB | [Repo](#) |
-| 🏫 **Campus Connect** | Full-stack platform connecting students with campus resources — built as Team Leader @ CDAC | HTML, CSS, JS, Python, MySQL | [Repo](#) |
+| 🏫 **Campus Connect** | Full-stack platform connecting students with campus resources — built as Team Leader @ CDAC | HTML, CSS, JS, Python, MySQL | [Repo](https://github.com/Aiman2027/CampusConnect.github.io) |
 | 🎬 **Movie Search App** | Fetches real-time movie data using external API | JavaScript, API | [Repo](https://github.com/Aiman2027/Movie-fetching-) |
 | 📊 **LeetCode Tracker** | Personal DSA problem tracker organized by topic & difficulty | JavaScript | [Repo](https://github.com/Aiman2027/leetcode-problem-traker) |
 | 📊 **smart-hrms-project** |Full-stack HR Management System with role-based access control — Admin can manage employees, approve/reject leaves & view attendance; Employees can mark attendance, apply for leaves & edit their profile. Built with JWT authentication, MongoDB Atlas & deployed live on Vercel   |React · Node.js · Express · MongoDB Atlas · JWT  | [Live](https://smart-hrms-project-b9lx.vercel.app) |
