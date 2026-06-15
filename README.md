@@ -58,6 +58,7 @@
 | 🎬 **Movie Search App** | Fetches real-time movie data using external API | JavaScript, API | [Repo](https://github.com/Aiman2027/Movie-fetching-) |
 | 📊 **LeetCode Tracker** | Personal DSA problem tracker organized by topic & difficulty | JavaScript | [Repo](https://github.com/Aiman2027/leetcode-problem-traker) |
 | 📊 **smart-hrms-project** |Full-stack HR Management System with role-based access control — Admin can manage employees, approve/reject leaves & view attendance; Employees can mark attendance, apply for leaves & edit their profile. Built with JWT authentication, MongoDB Atlas & deployed live on Vercel   |React · Node.js · Express · MongoDB Atlas · JWT  | [Live](https://smart-hrms-project-b9lx.vercel.app) |
+| 📊 **alcovia-app** | Offline-first study app for grades 6–12 featuring focus sessions, syllabus progress tracking, multi-device synchronization, conflict resolution using Lamport clocks, streaks & rewards, and n8n-powered automation. Built with React Native (Expo), Express, TypeScript, AsyncStorage, and webhook-based workflows. | React Native · Expo · TypeScript · Express · n8n · AsyncStorage | GitHub | [Repo]() |
 
 ---
 
