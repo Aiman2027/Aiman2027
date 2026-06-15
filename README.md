@@ -9,7 +9,6 @@
 ### 🙋‍♀️ About Me
 
 - 🎓 B.Tech CSE Student @ **MACET Patna** | Class of 2027
-- 🔭 Currently building **Course Recommendation & Builder Platform** @ InternNexus
 - 🏫 Previously built **Campus Connect** @ CDAC Patna as **Team Leader**
 - 🌟 **Google Student Ambassador** | Ex-Microsoft Learn Student Ambassador
 - ⚡ **LeetCode 1500+** Rating | Competitive Programmer in C/C++
@@ -53,7 +52,6 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🎯 **Course Recommendation & Builder** | Helps students discover right learning path based on goals & skills | React, Node.js, MongoDB | [Repo](#) |
 | 🏫 **Campus Connect** | Full-stack platform connecting students with campus resources — built as Team Leader @ CDAC | HTML, CSS, JS, Python, MySQL | [Repo](https://github.com/Aiman2027/CampusConnect.github.io) |
 | 🎬 **Movie Search App** | Fetches real-time movie data using external API | JavaScript, API | [Repo](https://github.com/Aiman2027/Movie-fetching-) |
 | 📊 **LeetCode Tracker** | Personal DSA problem tracker organized by topic & difficulty | JavaScript | [Repo](https://github.com/Aiman2027/leetcode-problem-traker) |
