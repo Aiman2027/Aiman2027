@@ -82,6 +82,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiman2027&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman2027&bg_color=0d1117&color=ffffff&line=ff7f3f&point=ffd700&area=true&area_color=1a1a2e&title_color=ffd700&hide_border=true" width="90%" />
+</p>
+
 ---
 
 ### 📫 Connect With Me
